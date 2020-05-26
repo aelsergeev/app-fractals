@@ -1,5 +1,5 @@
 package org.fractals.implemantation
 
 interface Fractal {
-    fun formula()
+    fun formula(start: Int)
 }
